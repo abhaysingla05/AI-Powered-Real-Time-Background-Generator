@@ -106,6 +106,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contact
 For questions or support, feel free to reach out:
 
-Name: Abhay Sharma
-Email: abhisharma588600@gmail.com
+Name: Abhay Singla
+Email: abhaysingla05@gmail.com
 GitHub: abhaysingla05
